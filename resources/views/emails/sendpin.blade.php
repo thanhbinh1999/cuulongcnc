@@ -1,0 +1,1 @@
+<p>Xin chào : {{$email}} ,chúng tôi đã nhận được yêu cầu đăng ký tài khoản của bạn , Mã Pin là: {{$pin}} mã có hiệu lực 15 phút .Cảm ơn bạn đã sử dụng dịch vụ </p>
